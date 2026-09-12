@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LinguaPulse</string>
+    <string name="notification_channel_name">Repaso Diario de Inglés</string>
+    <string name="notification_channel_desc">Notificaciones periódicas con conectores, expresiones y frases clave</string>
+</resources>
